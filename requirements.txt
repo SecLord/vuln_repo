@@ -1,4 +1,6 @@
 # Python dependencies required for development
+dpkg==1.17.27
+sensible-utils==0.0.9
 astunparse
 expecttest!=0.1.0
 hypothesis
