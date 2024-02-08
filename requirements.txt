@@ -75,7 +75,7 @@ copycentre_c65=-
 copycentre_c75=1.001.02.074
 copycentre_c65=1.001.02.073
 copycentre_c90=-
-pylon_anywhere=6.4.2
+pylon_anywhere==6.4.2
 pylon_anywhere=5.5.4
 pylon_anywhere=6.4.9
 pylon_anywhere=6.3.2
